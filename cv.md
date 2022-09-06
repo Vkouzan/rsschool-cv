@@ -1,22 +1,26 @@
-#Vitali Kouzan
-***************
-###Contact Information:
+# **Vitali Kouzan**
+
+## **Contact Information:**
+
 **Phone:** +375 29 7178638
+
 **@mail:** ator.kofielle@gmail.com
+
 **Telegram:** @jerome_carlin
-************************************
-###About Me:
+*************************
+
+## **About Me:**
 
 I study programming. 
 
-###Skills:
+## **Skills:**
 
-*HTML
-*CSS
-*JS (Basic)
-*Git
+* HTML
+* CSS
+* JS (Basic)
+* Git
 
-###Code Example:
+## **Code Example:**
 
 ```
 function sum(a, b) {
@@ -26,10 +30,10 @@ function sum(a, b) {
 let result = sum(10, 20);
 alert( result );
 ```
-###Education:
+## **Education:**
 
 **University:** Belorussian State Uneversity of Transport, Organization of Transportation and Management of Railway Transport
 
-###English:
+## **English:**
 
 A2.
